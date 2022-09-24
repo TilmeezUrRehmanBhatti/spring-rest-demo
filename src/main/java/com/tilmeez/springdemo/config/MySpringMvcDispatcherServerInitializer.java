@@ -1,6 +1,5 @@
 package com.tilmeez.springdemo.config;
 
-import com.tilmeez.springdemo.DemoAppConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class MySpringMvcDispatcherServerInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
